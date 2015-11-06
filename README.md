@@ -1,2 +1,2 @@
 # StanfordParseer_Python
-用python调用斯坦福局发分析器
+用python调用斯坦福句法分析器
